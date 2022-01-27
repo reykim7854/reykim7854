@@ -8,7 +8,7 @@ He/Him
 
 ## My Socials 📫
 
-<a href="https://twitter.com/Reykim_"><img alt="Twitter" src="https://img.shields.io/badge/@Reykim%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://linkedin.com/in/reykim"><img alt="LinkedIn" src="https://img.shields.io/badge/Reykim%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://t.me/reykim7124"><img alt="Telegram" src="https://img.shields.io/badge/Reykim7854-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <img alt="Discord" src="https://img.shields.io/badge/Reykim%237854%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://twitter.com/Reykim_"><img alt="Twitter" src="https://img.shields.io/badge/@Reykim%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://linkedin.com/in/reykim"><img alt="LinkedIn" src="https://img.shields.io/badge/Reykim%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://t.me/reykim7854"><img alt="Telegram" src="https://img.shields.io/badge/Reykim7854-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <img alt="Discord" src="https://img.shields.io/badge/Reykim%237854%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 
 ## Mainly use 📝
 
