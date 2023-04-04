@@ -2,10 +2,6 @@
 
 My full name is _Muhammad Rayhan Hakim_, but most people call me _Reykim_! Born in the year of 2000 in Indonesia, currently still lives in Indonesia. I mostly do Web Projects in Front-End departement ever since I learned it in Vocational High School. I was a mentor for 2 years teaching how to code with HTML, CSS, Javascript and Vue.js at _RPLGDC Laboratory, Telkom University, Bandung_. Currently still learning Web Development and Web Technologies in general because the advancement of it never stops.
 
-## Pronouns 😊
-
-He/Him
-
 ## My Socials 📫
 
 <a href="https://twitter.com/Reykim_"><img alt="Twitter" src="https://img.shields.io/badge/@Reykim%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://linkedin.com/in/reykim"><img alt="LinkedIn" src="https://img.shields.io/badge/Reykim%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://t.me/reykim7854"><img alt="Telegram" src="https://img.shields.io/badge/Reykim7854-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <img alt="Discord" src="https://img.shields.io/badge/Reykim%237854%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
